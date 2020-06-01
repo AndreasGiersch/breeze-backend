@@ -1,0 +1,14 @@
+{
+  "name": "test-backend",
+  "version": "1.0.0",
+  "description": "test backend for homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
